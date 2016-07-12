@@ -29,6 +29,6 @@
     "express-handlebars": "^2.0.1",
     "lodash": "^3.10.1",
     "multer": "^1.0.3",
-    "opencv": "^3.0.0"
+    "peterbraden/node-opencv": "^5.0.0"
   }
 }
